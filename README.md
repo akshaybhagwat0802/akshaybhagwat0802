@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <<h1 align="center">Hi 👋, I'm Akshay Bhagwat</h1>
-<h3 align="center">🚀 DevOps Enthusiast | Cloud Engineer | IT Student</h3>
+<h3 align="center">🚀 DevOps Enthusiast | Cloud Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+Enthusiast;AWS+%7C+Azure+%7C+GCP;Docker+%7C+CI%2FCD+Expert&center=true&width=500&height=45">
@@ -10,7 +10,6 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 IT Engineering Student  
 - 💼 DevOps Intern at Hisan Labs Pvt Ltd  
 - ☁️ Skilled in AWS, Azure & GCP  
 - 🐳 Working with Docker & CI/CD Pipelines  
@@ -44,13 +43,6 @@
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onestar&no-frame=true&margin-w=10">
-</p>
-
----
 
 ## 🌐 Connect with Me
 
@@ -72,14 +64,4 @@
 </p>!--
 **akshaybhagwat0802/akshaybhagwat0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
